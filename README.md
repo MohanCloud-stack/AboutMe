@@ -6,7 +6,7 @@
 - 🔭 &nbsp; I’m currently learning Aws and Devops as well as MERN Stack 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied  Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Full stack web Development Mentor 
+- 💼 &nbsp; Full stack web Development Mentor and Certified In AWS 
 - 🌱 &nbsp; Enthusiast in AWS Services and Devops Tools.
 - ✍️ &nbsp; Watching Nolans Movie's and Writing the tech blogs  as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
