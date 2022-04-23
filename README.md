@@ -15,9 +15,10 @@
 - &nbsp; Installed plugins in Jenkins, providing statistical reports for job failures and success.
 - &nbsp; Created Jobs in Jenkins, and set up global permission and scheduled jobs.
 - &nbsp; Knowledge of UNIX, Linux Shell scripting.
-- &nbsp; Hands-on working With various AWS services such as EC2instances,Aws CI/CD Pipelines S3 etc.
+- &nbsp; Hands-on working With various AWS services such as EC2instances,AWS CI/CD Pipelines,S3,IAM etc.
 - &nbsp;  Deployed a Full-stack Application on AWS Amplify.
-<h3>🛠 Tech Stack</h3>
+
+ <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Java |C| Python
 - 🌐 &nbsp; | HTML | CSS | JavaScript | Bootstrap |React 
